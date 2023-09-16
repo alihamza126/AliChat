@@ -1,0 +1,32 @@
+@import "../login/login.scss";
+
+
+.signupcontainer {
+    @include containercss();
+
+
+    form {
+        @include formmaxin();
+
+        label {
+            display: flex;
+            align-items:center;
+            justify-content: center;
+            gap: 1rem;
+            color: grey;
+            margin-top: 10px
+        }
+    }
+
+    .signupwrapper {
+        @include wrappercss();
+
+        .img {
+            width: 40px;
+            height: 40px;
+            object-fit:fill;
+            border-radius: 20px;
+
+        }
+    }
+}
