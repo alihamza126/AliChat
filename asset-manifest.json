@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Alichat/static/css/main.cf70db36.css",
+    "main.js": "/Alichat/static/js/main.6da292fb.js",
+    "static/js/787.40f060db.chunk.js": "/Alichat/static/js/787.40f060db.chunk.js",
+    "static/media/myimage.jpg": "/Alichat/static/media/myimage.6c1aa680608398479dda.jpg",
+    "index.html": "/Alichat/index.html",
+    "main.cf70db36.css.map": "/Alichat/static/css/main.cf70db36.css.map",
+    "main.6da292fb.js.map": "/Alichat/static/js/main.6da292fb.js.map",
+    "787.40f060db.chunk.js.map": "/Alichat/static/js/787.40f060db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf70db36.css",
+    "static/js/main.6da292fb.js"
+  ]
+}
