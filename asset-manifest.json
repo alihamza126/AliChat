@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Alichat/static/css/main.542bcaba.css",
+    "main.css": "/Alichat/static/css/main.a226cd30.css",
     "main.js": "/Alichat/static/js/main.ea2d784f.js",
     "static/js/787.40f060db.chunk.js": "/Alichat/static/js/787.40f060db.chunk.js",
     "static/media/myimage.jpg": "/Alichat/static/media/myimage.6c1aa680608398479dda.jpg",
     "index.html": "/Alichat/index.html",
-    "main.542bcaba.css.map": "/Alichat/static/css/main.542bcaba.css.map",
+    "main.a226cd30.css.map": "/Alichat/static/css/main.a226cd30.css.map",
     "main.ea2d784f.js.map": "/Alichat/static/js/main.ea2d784f.js.map",
     "787.40f060db.chunk.js.map": "/Alichat/static/js/787.40f060db.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.542bcaba.css",
+    "static/css/main.a226cd30.css",
     "static/js/main.ea2d784f.js"
   ]
 }
